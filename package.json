@@ -1,0 +1,25 @@
+{
+  "name": "dll-footer-js-npm",
+  "version": "0.1.0",
+  "description": "This module allow us generate a dynamic fotter of JS apps with updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielLaborda/dll-footer-js-npm.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Daniel Laborda <dani.laborda1@gmail.com> (https://github.com/DanielLaborda)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanielLaborda/dll-footer-js-npm/issues"
+  },
+  "homepage": "https://github.com/DanielLaborda/dll-footer-js-npm#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
